@@ -1,0 +1,16 @@
+azure-functions==1.3.0
+backlogprocessing==0.0.26
+certifi==2018.10.15
+chardet==3.0.4
+idna==2.7
+jmespath==0.9.3
+pybacklog==0.1.7
+python-dateutil==2.8.1
+pytz==2018.7
+PyYAML==5.1.2
+requests==2.24.0
+ruamel.appconfig==0.5.4
+ruamel.std.argparse==0.8.1
+six==1.15.0
+urllib3==1.24.2
+zope.interface==4.6.0
