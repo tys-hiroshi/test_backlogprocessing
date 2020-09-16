@@ -1,12 +1,10 @@
 {
     "_meta": {
         "hash": {
-            "sha256": "2d151d8917143a3f2886fbf38738d5773e2eb15b057cc3c8cc944ee725193a62"
+            "sha256": "b49f573d20e95a650f51235842754e71857198abf505bd54e9f27af36f46bbdc"
         },
         "pipfile-spec": 6,
-        "requires": {
-            "python_version": "3.6"
-        },
+        "requires": {},
         "sources": [
             {
                 "name": "pypi",
@@ -50,10 +48,10 @@
         },
         "chatworkpy": {
             "hashes": [
-                "sha256:bcc14133ace7aa8a57d5f4675365683bd0ff6f1a87639381d71a0232addcb9a7"
+                "sha256:a9d0008ad4d069b4b90187a30156a7c580d321e86808bc72167cbd4cd2f7f4fb"
             ],
             "index": "pypi",
-            "version": "==0.0.6"
+            "version": "==0.0.7"
         },
         "idna": {
             "hashes": [
