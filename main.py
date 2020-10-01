@@ -15,7 +15,7 @@ from chatworkpy.config import Config
 ConfigFilePath = os.path.join(os.getcwd(), "config.yml")
 try:
     LoggingConfigFilePath = os.path.join(os.getcwd(), "logging_debug.conf")
-    raise ValueError("Error aaaaa")
+    #raise ValueError("Error aaaaa")
     backlogapiprocess.run(ConfigFilePath, LoggingConfigFilePath)
 except Exception as e:
     chatwork_config = Config(ConfigFilePath).content["ALERT"]

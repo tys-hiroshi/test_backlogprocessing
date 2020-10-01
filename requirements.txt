@@ -1,5 +1,5 @@
 azure-functions==1.3.0
-backlogprocessing==0.0.26
+backlogprocessing
 certifi==2018.10.15
 chardet==3.0.4
 idna==2.7
